@@ -11,5 +11,5 @@ const product = require("./routes/productroutes");
 
 app.use("/api/v1",product)
 
-/// mi change kele  tula nay sanagyhe pavan
+/// mi change kele  tula nay sanagyhe jaykant
 module.exports = app
