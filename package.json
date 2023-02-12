@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavnya111329/REST-api.git"
+  },
+  "author": "pavan patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavnya111329/REST-api/issues"
+  },
+  "homepage": "https://github.com/Pavnya111329/REST-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  }
+}
